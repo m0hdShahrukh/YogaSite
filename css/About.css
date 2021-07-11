@@ -1,0 +1,31 @@
+
+#aboutbody{
+    background: url("/YogaSite/img/about.jpg") no-repeat;
+    background-size: cover;
+}
+.about{
+    display: inline-block;
+    width: 60%;
+    height: 50%;
+    align-items: center;
+    margin: 8% 20%;
+    justify-content: center;
+}
+.about h1{
+    color: #486b68;
+}
+.summrayHeading2 {
+    margin: 35px 100px;
+    text-shadow: 1px 1px black;
+    font-size: 3.8rem;
+    font-family: 'Raleway', sans-serif;
+    width: 30%;
+  }
+  .summrayContent2 {
+    margin: 35px 100px;
+    color:black;
+    padding: 12px 12px;
+    font-size: 1.2rem;
+    width: 39%;
+    height: 20%;
+  }
